@@ -14,6 +14,7 @@
 		4FCD7A1D2A5997DE005A02CC /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCD7A1C2A5997DE005A02CC /* FrameworkGridView.swift */; };
 		4FCD7A1F2A59B15B005A02CC /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCD7A1E2A59B15B005A02CC /* FrameworkDetailView.swift */; };
 		4FCD7A212A59B972005A02CC /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCD7A202A59B972005A02CC /* AFButton.swift */; };
+		4FCD7A232A59BCC8005A02CC /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCD7A222A59BCC8005A02CC /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		4FCD7A1C2A5997DE005A02CC /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
 		4FCD7A1E2A59B15B005A02CC /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		4FCD7A202A59B972005A02CC /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
+		4FCD7A222A59BCC8005A02CC /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,9 +63,10 @@
 				4FCD7A1C2A5997DE005A02CC /* FrameworkGridView.swift */,
 				4FCD7A1A2A5995DD005A02CC /* Framework.swift */,
 				4FCD7A1E2A59B15B005A02CC /* FrameworkDetailView.swift */,
+				4FCD7A202A59B972005A02CC /* AFButton.swift */,
+				4FCD7A222A59BCC8005A02CC /* FrameworkGridViewModel.swift */,
 				4FCD7A102A5995A8005A02CC /* Assets.xcassets */,
 				4FCD7A122A5995A8005A02CC /* Preview Content */,
-				4FCD7A202A59B972005A02CC /* AFButton.swift */,
 			);
 			path = AppleFrameworks;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				4FCD7A1B2A5995DD005A02CC /* Framework.swift in Sources */,
 				4FCD7A212A59B972005A02CC /* AFButton.swift in Sources */,
 				4FCD7A0D2A5995A7005A02CC /* AppleFrameworksApp.swift in Sources */,
+				4FCD7A232A59BCC8005A02CC /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
